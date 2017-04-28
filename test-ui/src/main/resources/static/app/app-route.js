@@ -1,4 +1,3 @@
-
 'use strict';
 
 angular.module('test').config(['$stateProvider', function ($stateProvider) {
@@ -8,5 +7,5 @@ angular.module('test').config(['$stateProvider', function ($stateProvider) {
 		templateUrl: '/app/app-template.html',
 		controller: 'AppController'
 	});
-
+		
 }]);

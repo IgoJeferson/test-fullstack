@@ -20,11 +20,12 @@
 	</properties>
 
 	<modules>
-		<module>test-main</module>
-		<module>test-api</module>
-		<module>test-ui</module>
+		<module>test-config</module>
 		<module>test-model</module>
+		<module>test-api</module>
 		<module>test-service</module>
+		<module>test-ui</module>
+		<module>test-main</module>
 	</modules>
 
 	<dependencies>
